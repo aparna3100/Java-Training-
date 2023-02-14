@@ -1,5 +1,5 @@
 package employee.inheritance;
-import java.util.Scanner;
+
 public class Hra extends Employee {	
 	float hraAmount,pfAmount;
 	public void hraPfcal()
